@@ -1,5 +1,5 @@
 # Decentralized Pizza (DePi) License v1.0
-![pizza-laptop.jpg](Pizza Laptop)
+![](pizza-laptop.jpg)
 ## What is this License About?
 This license is heavily inspired by both ["Don't Be A Dick" License (DBAD)](http://dbad-license.org/)
 and the Decentralized Pizza (DePi) meme.
